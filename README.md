@@ -3,5 +3,5 @@ Este repositorio contiene código y documentación del proyecto "Excedentes agr�
 
 ## Autores:
 - Axel Castro Fonseca
-- V
+- Victor Manuel Minjares Neriz
 - María Janneth Rivera Reyna
