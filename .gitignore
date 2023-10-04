@@ -1,3 +1,7 @@
+# General
+descarga/raw_data
+limpieza/data
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
