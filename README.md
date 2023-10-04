@@ -5,3 +5,4 @@ Este repositorio contiene código y documentación del proyecto "Excedentes agr�
 - Axel Castro Fonseca
 - Victor Manuel Minjares Neriz
 - María Janneth Rivera Reyna
+- Kevin Manuel Galván Lara
