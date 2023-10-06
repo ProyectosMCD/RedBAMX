@@ -20,11 +20,13 @@ Para ello, se analizan varias fuentes de datos que son de actual interés para l
 
 Se utilizan las siguientes fuentes de datos:
 
-Fuente: [Sistema Nacional de Información e Integración de Mercados](http://www.economia-sniim.gob.mx/)
+**Fuente:** [Sistema Nacional de Información e Integración de Mercados](http://www.economia-sniim.gob.mx/)
 
-Secciones:
+**Descripción:** El SNIIM proporciona información de precios al mayoreo del mercado agroalimentario a fin de coadyuvar a la toma de decisiones en materia de comercio. Para fines de este proyecto se analiza la **información histórica de los años 2020 al 2023** para las siguientes secciones:
 - Mercados Agricolas Nacionales
     - Frutas y Hortalizas
+
+
 
 
 <agregar aquí otra fuente>
