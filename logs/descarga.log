@@ -1,2 +1,11 @@
-06/10/2023 08:47:17 PM, INFO Descarga de datos SNIIM iniciada.
-06/10/2023 08:47:29 PM, INFO Descarga de datos SNIIM finalizada.
+07/10/2023 01:19:26 AM, INFO Descarga de datos SNIIM iniciada.
+07/10/2023 01:22:05 AM, INFO Descarga de datos SNIIM finalizada.
+07/10/2023 01:22:13 AM, INFO 
+        El SNIIM proporciona información de precios al mayoreo del mercado agroalimentario 
+        a fin de coadyuvar a la toma de decisiones en materia de comercio.
+
+        Se realiza web scrapping utilizando las siguientes URLs: 
+        http://www.economia-sniim.gob.mx/mapa.asp
+        http://www.economia-sniim.gob.mx/Nuevo/Consultas/MercadosNacionales/PreciosDeMercado/Agricolas/ResultadosConsultaFechaFrutasYHortalizas.aspx
+        
+        
