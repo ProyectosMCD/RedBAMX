@@ -1,0 +1,18 @@
+El Servicio de Información Agroalimentaria y Pesquera (SIAP) del gobierno de México, nos proporciona
+información de la producción de cultivos con las variables: 
+- Superficie sembrada
+- Superficie cosechada
+- Superficie siniestrada
+- Producción obtenida 
+- Rendimiento 
+
+En diferentes años, meses, entidades, distritos, municipios, ciclos y modalidades. 
+Para más información visite el siguiente enlace: https://www.gob.mx/siap/acciones-y-programas/produccion-agricola-33119
+Los datos son descargados del siguiente enlace: https://nube.siap.gob.mx/avance_agricola/
+
+Descargamos los datos:
+
+2023-10-08 17:28:39,817 - INFO - Se descargó la información: Año=2023, Mes=Enero,Ciclo=Otoño - Invierno, Modalidad=Riego, Cultivo=Ajo
+2023-10-08 17:28:40,415 - INFO - Se descargó la información: Año=2023, Mes=Enero,Ciclo=Otoño - Invierno, Modalidad=Riego, Cultivo=Ajonjolí
+2023-10-08 17:28:41,245 - INFO - Se descargó la información: Año=2023, Mes=Febrero,Ciclo=Otoño - Invierno, Modalidad=Riego, Cultivo=Ajo
+2023-10-08 17:28:41,812 - INFO - Se descargó la información: Año=2023, Mes=Febrero,Ciclo=Otoño - Invierno, Modalidad=Riego, Cultivo=Ajonjolí
