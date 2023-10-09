@@ -36,7 +36,7 @@ Se utilizan las siguientes fuentes de datos:
 
 **Fuente:** [Servicio de Información Agroalimentario y Pesquera (Producción Agrícola)](https://nube.siap.gob.mx/avance_agricola/).
 
-**Descripcción:** Proporciona datos sobre el progreso mensual de la producción de cultivos de seguimiento, en total 64 cultivos, incluyendo información sobre la superficie sembrada, superficie cosechada, superficie siniestrada (estas últimas en hectáreas) , producción obtenida (en toneladas) y rendimiento (en toneladas por hectárea). Los datos están disponibles desglosados por ubicación geográfica, incluyendo municipio, así como por cultivo, ciclo de producción y modalidad hídrica. En la pagina se encuentra **Información de los años 2018 hasta 2023** para los siguientes segmentos: 
+**Descripcción:** Proporciona datos sobre el progreso mensual de la producción de cultivos de seguimiento, en total 64 cultivos, incluyendo información sobre la superficie sembrada, superficie cosechada, superficie siniestrada (todas en hectáreas) , producción obtenida (en toneladas) y rendimiento (en toneladas por hectárea). Los datos están disponibles desglosados por ubicación geográfica, incluyendo municipio, así como por cultivo, ciclo de producción y modalidad hídrica. En la pagina se encuentra **Información de los años 2018 hasta 2023** para los siguientes segmentos: 
 -Mercados Agrícolas Nacionales
     -Frutas y Hortalizas
 
