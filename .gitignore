@@ -166,3 +166,5 @@ cython_debug/
 descarga/data/info.txt
 descarga/data/raw/Cierre_agricola_2022.csv
 *.csv
+idsSIAP.json
+datosSIAP
