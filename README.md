@@ -22,23 +22,23 @@ Se utilizan las siguientes fuentes de datos:
 
 **Fuente:** [Sistema Nacional de Información e Integración de Mercados](http://www.economia-sniim.gob.mx/)
 
-**Descripción:** El SNIIM proporciona información de precios al mayoreo del mercado agroalimentario a fin de coadyuvar a la toma de decisiones en materia de comercio. Para fines de este proyecto se analiza la **información histórica de los años 2020 al 2023** para las siguientes secciones:
+**Descripción:** El SNIIM proporciona información diaria de precios al mayoreo del mercado agroalimentario a fin de coadyuvar a la toma de decisiones en materia de comercio. Para fines de este proyecto se analiza la **información histórica de los años 2020 al 2023** para las siguientes secciones:
 - Mercados Agricolas Nacionales
     - Frutas y Hortalizas
  
 **Fuente:** [Servicio de Información Agroalimentario y Pesquera (Índice de Volumen Físico)](https://www.gob.mx/siap/documentos/ivf-correspondiente-al-mes-de-mayo-2017-111668/).
 
-**Descripcción:** Presenta un análisis de la evolución real de la producción agropecuaria nacional, por entidad federativa y por cultivo y productos pecuarios. Es un documento de periodicidad mensual. El cálculo del IVF implica comparar la cantidad de producción de un año o período dado con la cantidad de producción en un año base o período de referencia. El año base se toma como un punto de referencia para calcular las variaciones en la producción física en años posteriores.
+**Descripción:** Presenta un análisis de la evolución real de la producción agropecuaria nacional, por entidad federativa y por cultivo y productos pecuarios. Es un documento de periodicidad mensual. El cálculo del IVF implica comparar la cantidad de producción de un año o período dado con la cantidad de producción en un año base o período de referencia. El año base se toma como un punto de referencia para calcular las variaciones en la producción física en años posteriores.
 **Información de los años 2015-2022** para los siguientes sectores:
--Mercados Agrícolas Nacionales
+- Mercados Agrícolas Nacionales
     -Frutas y Hortalizas
 
 
 **Fuente:** [Servicio de Información Agroalimentario y Pesquera (Producción Agrícola)](https://nube.siap.gob.mx/avance_agricola/).
 
-**Descripcción:** Proporciona datos sobre el progreso mensual de la producción de cultivos de seguimiento, en total 64 cultivos, incluyendo información sobre la superficie sembrada, superficie cosechada, superficie siniestrada (todas en hectáreas) , producción obtenida (en toneladas) y rendimiento (en toneladas por hectárea). Los datos están disponibles desglosados por ubicación geográfica, incluyendo municipio, así como por cultivo, ciclo de producción y modalidad hídrica. En la pagina se encuentra **Información de los años 2018 hasta 2023** para los siguientes segmentos: 
--Mercados Agrícolas Nacionales
-    -Frutas y Hortalizas
+**Descripción:** Proporciona datos sobre el progreso mensual de la producción de cultivos de seguimiento, en total 64 cultivos, incluyendo información sobre la superficie sembrada, superficie cosechada, superficie siniestrada (todas en hectáreas) , producción obtenida (en toneladas) y rendimiento (en toneladas por hectárea). Los datos están disponibles desglosados por ubicación geográfica, incluyendo municipio, así como por cultivo, ciclo de producción y modalidad hídrica. En la pagina se encuentra **Información de los años 2018 hasta 2023** para los siguientes segmentos: 
+- Mercados Agrícolas Nacionales
+    - Frutas y Hortalizas
 
     
 ## Autores
