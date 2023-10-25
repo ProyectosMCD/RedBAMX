@@ -1,3 +1,5 @@
-1. Para los datos del SIAP de producción agrícola, ¿qué modalidad, ciclo y cultivos se requieren?
-2. Si han intentado este proyecto anteriormente ¿Qué variables son las que tienen pensado tomar
-en cuenta?
+1. Para los datos del SIAP de producción agrícola, ¿Qué significan las segundas tablas?
+2. ¿Porqué algunas tienen y otras no?
+3. ¿Porqué las que tienen hay algunas que solo para octubre en adelante y otras de enero
+a marzo?
+4. ¿Porqué hay algunas segundas tablas que son iguales entre meses y otras que no?
