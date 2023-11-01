@@ -1,3 +1,16 @@
-1. Para los datos del SIAP de producción agrícola, ¿qué modalidad, ciclo y cultivos se requieren?
-2. Si han intentado este proyecto anteriormente ¿Qué variables son las que tienen pensado tomar
-en cuenta?
+**SIAP**
+1. Para los datos del SIAP de producción agrícola, ¿Qué significan las segundas tablas?
+2. ¿Por qué algunas tienen y otras no?
+3. ¿Por qué las que tienen hay algunas que solo para octubre en adelante y otras de enero
+a marzo?
+4. ¿Por qué hay algunas segundas tablas que son iguales entre meses y otras que no?
+5. Cuando pide todas las modalidades y ciclos ¿Estos están englobados en riego + temporal 
+y ciclos - perennes?
+
+
+**SNIIM**
+1. En el reporte mensual del SNIIM para Frutas y Hortalizas, para calcular el precio promedio mensual de un producto, se toma sólo un subconjunto de los precios. Por ejemplo: para la Acelga por Kg, septiembre 2023, se agrupa el “precio_frec” (la moda) diario, se calcula el promedio por semana y luego se calcula el promedio de todas las semanas, pero sólo de los precios que corresponden al origen “Puebla”, destino: “DF: Central de Abasto de Iztapalapa DF”, excluyendo los precios tomados de otros orígenes/destinos.
+a) ¿Por qué se muestra así el cálculo? 
+b) ¿Cuál sería el criterio para elegir el origen/destino sobre el cual calcularlo? 
+c) ¿Sería correcto si nosotros calculáramos “de nuestro lado” el precio promedio mensual para todos los productos, por Estado/Municipio, por Mes/Año?
+El calcularlo de "de nuestro lado" podría llevarnos a otros hallazgos. Sin embargo, me gustaría si pudieras confirmarnos si podemos proceder de esta manera, o si su interés es que se tome el cálculo que ya realiza el SNIIM.
