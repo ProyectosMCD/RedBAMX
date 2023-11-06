@@ -38,7 +38,12 @@ Se utilizan las siguientes fuentes de datos:
 
 **Descripción:** Proporciona datos sobre el progreso mensual de la producción de cultivos de seguimiento, en total 64 cultivos, incluyendo información sobre la superficie sembrada, superficie cosechada, superficie siniestrada (todas en hectáreas) , producción obtenida (en toneladas) y rendimiento (en toneladas por hectárea). Los datos están disponibles desglosados por ubicación geográfica, incluyendo municipio, así como por cultivo, ciclo de producción y modalidad hídrica. En la pagina se encuentra **Información de los años 2018 hasta 2023** para los siguientes segmentos: 
 - Mercados Agrícolas Nacionales
-    - Frutas y Hortalizas
+    - Frutas y Hortalizas 
+
+
+**Fuente:** [Prediction Of Worldwide Energy Resources (POWER) de la NASA](https://power.larc.nasa.gov/#resources).
+
+**Descripción:** proporciona conjuntos de datos e información relacionada con recursos energéticos en todo el mundo. Estos conjuntos de datos incluyen mediciones y estimaciones de diversos parámetros climáticos, meteorológicos y energéticos, que son esenciales para comprender y evaluar el potencial de energía renovable, la eficiencia energética de los edificios y la agricultura.
 
     
 ## Autores
