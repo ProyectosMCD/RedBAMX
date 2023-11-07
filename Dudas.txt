@@ -1,3 +1,6 @@
+** General **
+
+
 **SIAP**
 1. Para los datos del SIAP de producción agrícola, ¿Qué significan las segundas tablas?
 2. ¿Por qué algunas tienen y otras no?
@@ -14,3 +17,7 @@ a) ¿Por qué se muestra así el cálculo?
 b) ¿Cuál sería el criterio para elegir el origen/destino sobre el cual calcularlo? 
 c) ¿Sería correcto si nosotros calculáramos “de nuestro lado” el precio promedio mensual para todos los productos, por Estado/Municipio, por Mes/Año?
 El calcularlo de "de nuestro lado" podría llevarnos a otros hallazgos. Sin embargo, me gustaría si pudieras confirmarnos si podemos proceder de esta manera, o si su interés es que se tome el cálculo que ya realiza el SNIIM.
+---
+2. "Chile verde" no existe en SNIMM. Cuáles tomar? Por ej. Chile Chilaca, Chile Anaheim, Chile California.
+3. Para cruzar el dataset de SNIIM con SIAP, cual estado debemos tomar: orígen o destino?
+4. Deben tomarse en cuenta productos cuyo estado de orígen sea de importación? Ya que no tendríamos información de este cultivo.
