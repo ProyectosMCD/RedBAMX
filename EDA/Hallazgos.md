@@ -21,6 +21,16 @@ Una vez hecho esto, se ha realizado el análisis exploratorio de los datos (EDA,
  
 ## Hallazgos
 
+En el análisis de las gráficas de producción por cultivo y registros por cultivo a nivel global, se destacan tendencias significativas. En la gráfica de registros por cultivo, se identifica que el *Frijol*, *Limón* y *Tomate rojo* son los cultivos con mayor cantidad de registros. Estos cultivos emergen como los más sembrados a lo largo del país. En contraste, la *Berenjena*, *Piña*, *Fresa* y *Frambuesa* se sitúan como los cultivos con menos registros.
+
+La gráfica de producción por cultivo revela que la *Naranja* lidera la producción agrícola en el país, seguida por el *Limón*, *Plátano* y *Mango*. En cuanto a la 'Superficie siniestrada por cultivo', se destaca el *Frijol* y la *Sandía* como los cultivos con mayor superficie afectada, con una diferencia considerable respecto a otros cultivos. Además, *Veracruz* y *Zacatercas* son los estados con mayor superficie siniestrada.
+
+Un análisis de correlación entre las variables muestra que 'Producción', 'Superficie(ha)_Cosechada' y 'Rendimiento(udm/ha)' tienen una fuerte correlación lineal. Encontramos que la variable 'Rendimiento(udm/ha)' se define como la relación entre 'Producción' y 'Superficie(ha)_Cosechada'. Las pequeñas discrepancias en el cálculo se atribuyen al redondeo.
+
+En relación a los datos atípicos, se observa la presencia de numerosos valores atípicos en todas las variables numéricas según el cultivo. A pesar de ello, se opta por no eliminarlos, considerando la posibilidad de que estén vinculados con variables climáticas de otros conjuntos de datos. Este comportamiento atípico lo asociamos principalmente a la gran presencia de registros con valor 0.
+
+En la revisión de las variables a lo largo del tiempo, se destaca que la superficie siniestrada permanece prácticamente en 0 desde finales de 2020 hasta principios de 2023, experimentando un aumento significativo a partir de julio de 2023. Este repunte podría requerir una exploración más detallada para comprender las causas subyacentes y tomar medidas preventivas.
+
 ### PCA
 
 *PC1:* Este componente en particular parece estar vinculado al concepto de temporalidad y a los factores económicos. Al considerar la agrupación colectiva de la velocidad del viento, el precio y el año, es posible que surja un patrón discernible, que puede atribuirse a la fluctuación anual de los precios de los cultivos. Además, es concebible que estas fluctuaciones estén influenciadas por las condiciones meteorológicas, que están inextricablemente vinculadas a la velocidad del viento.
