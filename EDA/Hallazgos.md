@@ -21,13 +21,21 @@ Una vez hecho esto, se ha realizado el análisis exploratorio de los datos (EDA,
  
 ## Hallazgos
 
+### PCA
 
-En el análisis de las gráficas de producción por cultivo y registros por cultivo a nivel global, se destacan tendencias significativas. En la gráfica de registros por cultivo, se identifica que el *Frijol*, *Limón* y *Tomate rojo* son los cultivos con mayor cantidad de registros. Estos cultivos emergen como los más sembrados a lo largo del país. En contraste, la *Berenjena*, *Piña*, *Fresa* y *Frambuesa* se sitúan como los cultivos con menos registros.
+*PC1:* Este componente en particular parece estar vinculado al concepto de temporalidad y a los factores económicos. Al considerar la agrupación colectiva de la velocidad del viento, el precio y el año, es posible que surja un patrón discernible, que puede atribuirse a la fluctuación anual de los precios de los cultivos. Además, es concebible que estas fluctuaciones estén influenciadas por las condiciones meteorológicas, que están inextricablemente vinculadas a la velocidad del viento.
 
-La gráfica de producción por cultivo revela que la *Naranja* lidera la producción agrícola en el país, seguida por el *Limón*, *Plátano* y *Mango*. En cuanto a la 'Superficie siniestrada por cultivo', se destaca el *Frijol* y la *Sandía* como los cultivos con mayor superficie afectada, con una diferencia considerable respecto a otros cultivos. Además, *Veracruz* y *Zacatercas* son los estados con mayor superficie siniestrada.
+*PC2:* En este caso, podemos establecer una correlación entre la medición de la humedad relativa y la precipitación. Es concebible que este componente en particular sirva como reflejo del impacto que factores climáticos específicos, a saber, la humedad y las precipitaciones, tienen en la producción agrícola. Al alterar estas variables, se hace evidente la posibilidad de influir en el rendimiento de los cultivos.
 
-Un análisis de correlación entre las variables muestra que 'Producción', 'Superficie(ha)_Cosechada' y 'Rendimiento(udm/ha)' tienen una fuerte correlación lineal. Encontramos que la variable 'Rendimiento(udm/ha)' se define como la relación entre 'Producción' y 'Superficie(ha)_Cosechada'. Las pequeñas discrepancias en el cálculo se atribuyen al redondeo.
+*PC3:* El enfoque de este componente parece centrarse en la intrincada relación entre la extensión de tierra utilizada para la siembra y la cosecha y su impacto en la producción agrícola. Se puede deducir que el aumento de la superficie dedicada a la siembra y la cosecha está directamente relacionado con el correspondiente aumento de la producción. Esta correlación implica en gran medida una asociación plausible entre estas variables antes mencionadas.
 
-En relación a los datos atípicos, se observa la presencia de numerosos valores atípicos en todas las variables numéricas según el cultivo. A pesar de ello, se opta por no eliminarlos, considerando la posibilidad de que estén vinculados con variables climáticas de otros conjuntos de datos. Este comportamiento atípico lo asociamos principalmente a la gran presencia de registros con valor 0.
+*PC4:* En el siguiente caso, se observa una conexión entre el rendimiento por hectárea, la precipitación y, posiblemente, una medición secundaria de la precipitación. Esta combinación de factores podría sugerir cómo las variaciones en las precipitaciones, junto con el rendimiento por unidad de superficie, pueden afectar significativamente a la producción de los cultivos.
 
-En la revisión de las variables a lo largo del tiempo, se destaca que la superficie siniestrada permanece prácticamente en 0 desde finales de 2020 hasta principios de 2023, experimentando un aumento significativo a partir de julio de 2023. Este repunte podría requerir una exploración más detallada para comprender las causas subyacentes y tomar medidas preventivas.
+*PC5:* Este componente en particular establece una relación entre la magnitud del daño a las tierras de cultivo, un identificador estatal, y la presión superficial. Esta combinación de factores puede indicar cómo las condiciones climáticas específicas o las presiones superficiales únicas pueden estar interconectadas con los daños sufridos en varios estados o regiones.
+
+Varianza explicada por cada componente: [0.31613549 0.16452929 0.1168629  0.05474033 0.04761315]
+Variables principales para PC1: Velocidad_Viento, Precio, Año
+Variables principales para PC2: Humedad_Relativa, Precipitacion, Precipitación
+Variables principales para PC3: Superficie(ha)_Cosechada, Superficie(ha)_Sembrada, Producción
+Variables principales para PC4: Rendimiento(udm/ha), Precipitación, Precipitacion
+Variables principales para PC5: Superficie(ha)_Siniestrada, Estado_CVE, Presión_Superficial
