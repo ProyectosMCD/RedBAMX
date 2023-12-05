@@ -1,1 +1,3 @@
 # Storyboard
+
+La historia que buscamos contar se centra en proporcionar información esencial a la RedBAMx para identificar posibles excedentes agrícolas de diversos cultivos en los estados de México. En este análisis, brindamos  información clave, como producción, rendimiento, y su relación con el precio de mercado. Todo esto con el fin de apoyar a la RedBAMx en la detección de posibles excedentes agrícolas de manera efectiva.
