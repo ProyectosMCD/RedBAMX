@@ -1,4 +1,5 @@
 # RedBAMX - Proyecto Excedentes Agrícolas
+https://app.powerbi.com/groups/930c0d45-39d8-401d-8c9b-a91de4ce74d3/reports/5d64ec64-f06b-4bf4-b14c-63058ec358eb/ReportSection?experience=power-bi
 Este repositorio contiene código y documentación del proyecto "Excedentes agrícolas para la **Red de Bancos de Alimentos de México (RedBAMX)**".
 
 ## Introducción
